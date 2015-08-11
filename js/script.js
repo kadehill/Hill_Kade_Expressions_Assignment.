@@ -19,5 +19,9 @@ quarters = prompt("Enter the amount of quarters you've found.");
 // Arrays
 var value = [.01,.05,.10,.25];
 
+// Expressions
+var total = ((pennies * value[0]) + (nickles * value[1]) + (dimes * value[2]) + (quarters * value[3]));
+console.log(total);
+
 // outputs
 
