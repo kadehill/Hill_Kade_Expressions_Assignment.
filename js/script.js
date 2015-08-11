@@ -16,5 +16,8 @@ nickles = prompt("Enter the amount of nickles you've found");
 dimes = prompt("Enter the amount of dimes you've found.");
 quarters = prompt("Enter the amount of quarters you've found.");
 
+// Arrays
+var value = [.01,.05,.10,.25];
+
 // outputs
 
